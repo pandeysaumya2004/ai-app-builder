@@ -31,6 +31,4 @@ Inspired by tools like **Lovable** and **Bolt.new**.
 
 
 
-```bash
-git clone https://github.com/roadsidecoder/buildai.git
-cd buildai
+
